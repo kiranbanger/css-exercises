@@ -1,0 +1,19 @@
+.red-background {
+	background: #FF7F7F;
+	font-family: Verdana, sans-serif;
+}
+
+#blue-font{
+	color:#0000FF;
+	font-size: 36px;
+}
+
+#green-background {
+	background:#00CC00;
+	font-weight: bold
+	/*'font size: 24px' can go here, so that one element does not have a class and id*/
+}
+
+.font-24 {
+	font-size:24px;
+}
